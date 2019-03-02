@@ -9,5 +9,3 @@ Game rules:
 - If a player rolls a 1, his ROUND score gets lost, and it's the next player's turn
 - The first player to reach 100 points on GLOBAL score wins the game
 - The players can also set the score limit to win the game
-
-View Demo <https://christophermedrano.github.io/pig-game/>
