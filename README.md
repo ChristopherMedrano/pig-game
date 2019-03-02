@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+# Pig Game
 
-You can use the [editor on GitHub](https://github.com/ChristopherMedrano/pig-game/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+A project using HTML, CSS, JavaScript
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Game rules:
+- The game has 2 players and is played in rounds
+- Each turn a player rolls two die as much as he wants. The result gets added to his ROUND score
+- The player can choose to HOLD and his ROUND score gets added to his GLOBAL score. This ends the turn
+- If a player rolls a 1, his ROUND score gets lost, and it's the next player's turn
+- The first player to reach 100 points on GLOBAL score wins the game
+- The players can also set the score limit to win the game
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ChristopherMedrano/pig-game/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+View Demo <https://christophermedrano.github.io/pig-game/>
